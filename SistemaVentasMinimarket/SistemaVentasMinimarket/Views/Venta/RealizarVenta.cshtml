@@ -1,0 +1,166 @@
+﻿@model CapaEntidad.Venta
+
+@{
+    ViewBag.Title = "Realizar Venta";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Realizar Venta</h2>
+
+<form asp-action="RealizarVenta" method="post">
+    <!-- Fecha actual -->
+    <div>
+        <label>Fecha de Venta: @DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")</label>
+    </div>
+
+    <!-- Tabla de detalle de venta -->
+    <div>
+        <h3>Productos</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Producto</th>
+                    <th>Cantidad</th>
+                    <th>Precio Unitario</th>
+                    <th>Total</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody id="detalleVentas">
+                @if (Model.DetalleVentas != null)
+                {
+                    foreach (var detalle in Model.DetalleVentas)
+                    {
+                        <tr>
+                            <td>
+                                <input type="hidden" name="DetalleVentas.Index" value="@detalle.ProductoID" />
+                                @detalle.ProductoID <!-- Puedes mostrar el nombre u otro dato del producto aquí -->
+                            </td>
+                            <td>
+                                <input type="number" name="DetalleVentas[@detalle.ProductoID].Cantidad" value="@detalle.Cantidad" />
+                            </td>
+                            <td>
+                                <input type="number" step="0.01" name="DetalleVentas[@detalle.ProductoID].PrecioUnitario" value="@detalle.PrecioUnitario" />
+                            </td>
+                            <td>
+                                <!-- Mostrar el total calculado -->
+                            </td>
+                            <td>
+                                <button type="button" onclick="eliminarFila(this)">Eliminar</button>
+                            </td>
+                        </tr>
+                    }
+                }
+                </tbody>
+        </table>
+        <!-- Botón agregar producto -->
+        <button type="button" onclick="agregarFila()">Agregar Producto</button>
+    </div>
+    <br />
+    <br />
+
+    <!-- Seleccionar forma de pago -->
+    <div>
+        <label>Forma de Pago: </label>
+        @Html.DropDownListFor(model => model.FormaPagoID, new SelectList(ViewBag.FormasPago, "FormaPagoID", "Descripcion"), "-- Seleccione --")
+    </div>
+    <br />
+
+    <!-- Monto total -->
+    <div>
+        <label>Monto Total: </label>
+        @Html.TextBoxFor(model => model.MontoTotal, new { @readonly = "readonly", @step = "0.01" })
+    </div>
+
+    <!-- Botón realizar venta -->
+    <button type="submit">Realizar Venta</button>
+</form>
+
+<!-- Modal de productos -->
+<div id="modalProductos" style="display:none;">
+    <div>
+        <button type="button" onclick="cerrarModalProductos()">Cerrar</button>
+        <h3>Productos</h3>
+        <div id="listaProductos"></div>
+    </div>
+</div>
+
+<script>
+    var contador = 1;
+
+    function agregarFila() {
+        var fila =
+            `<tr>
+                <td>
+                    <input type="hidden" name="DetalleVentas[${contador}].ProductoID" />
+                    <span id="productoNombre_${contador}"></span>
+                    <button type="button" onclick="abrirModalProductos(${contador})">Buscar</button>
+                </td>
+                <td>
+                    <input type="number" name="DetalleVentas[${contador}].Cantidad" oninput="calcularTotal(${contador})" />
+                </td>
+                <td>
+                    <input type="number" step="0.01" name="DetalleVentas[${contador}].PrecioUnitario" oninput="calcularTotal(${contador})" />
+                </td>
+                <td>
+                    <span id="total_${contador}"></span>
+                </td>
+                <td>
+                    <button type="button" onclick="eliminarFila(this)">Eliminar</button>
+                </td>
+            </tr>`;
+        document.getElementById('detalleVentas').insertAdjacentHTML('beforeend', fila);
+        contador++;
+    }
+
+    function eliminarFila(boton) {
+        boton.closest('tr').remove();
+        calcularMontoTotal();
+    }
+
+    function abrirModalProductos(index) {
+        document.getElementById('modalProductos').style.display = 'block';
+        window.currentIndex = index;
+
+        fetch('@Url.Action("ListarProductos", "Productos")')
+            .then(response => response.json())
+            .then(data => {
+                var listaProductosHtml = '';
+                data.forEach(producto => {
+                    listaProductosHtml += `<div><button type="button" onclick="seleccionarProducto(${producto.ProductoID}, '${producto.Nombre}', ${producto.Precio})">${producto.Nombre}</button></div>`;
+                });
+                document.getElementById('listaProductos').innerHTML = listaProductosHtml;
+            });
+    }
+
+    function cerrarModalProductos() {
+        document.getElementById('modalProductos').style.display = 'none';
+    }
+
+    function seleccionarProducto(productoID, nombre, precio) {
+        document.getElementsByName('DetalleVentas[' + window.currentIndex + '].ProductoID')[0].value = productoID;
+        document.getElementById('productoNombre_' + window.currentIndex).textContent = nombre;
+        document.getElementsByName('DetalleVentas[' + window.currentIndex + '].PrecioUnitario')[0].value = precio;
+        cerrarModalProductos();
+        calcularTotal(window.currentIndex);
+    }
+
+    function calcularTotal(index) {
+        var cantidad = document.getElementsByName('DetalleVentas[' + index + '].Cantidad')[0].value;
+        var precioUnitario = document.getElementsByName('DetalleVentas[' + index + '].PrecioUnitario')[0].value;
+        var total = cantidad * precioUnitario;
+        document.getElementById('total_' + index).textContent = total.toFixed(2);
+        calcularMontoTotal();
+    }
+
+    function calcularMontoTotal() {
+        var totalVenta = 0;
+        for (var i = 0; i < contador; i++) {
+            var total = document.getElementById('total_' + i);
+            if (total) {
+                totalVenta += parseFloat(total.textContent);
+            }
+        }
+        document.querySelector('input[asp-for="MontoTotal"]').value = totalVenta.toFixed(2);
+    }
+</script>

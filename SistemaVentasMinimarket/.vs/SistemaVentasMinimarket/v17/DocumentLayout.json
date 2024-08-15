@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DBB654-C7A5-4672-8E97-99D5060FE126}|SistemaVentasMinimarket\\SistemaVentasMinimarket.csproj|f:\\estaciondetrabajo_c#_.net\\proyecto_efst_diana\\proyectoventasminimarket1\\sistemaventasminimarket\\sistemaventasminimarket\\views\\mantenedor\\registrarproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8DBB654-C7A5-4672-8E97-99D5060FE126}|SistemaVentasMinimarket\\SistemaVentasMinimarket.csproj|solutionrelative:sistemaventasminimarket\\views\\mantenedor\\registrarproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DBB654-C7A5-4672-8E97-99D5060FE126}|SistemaVentasMinimarket\\SistemaVentasMinimarket.csproj|F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\sistemaventasminimarket\\views\\reporte\\reporteproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8DBB654-C7A5-4672-8E97-99D5060FE126}|SistemaVentasMinimarket\\SistemaVentasMinimarket.csproj|solutionrelative:sistemaventasminimarket\\views\\reporte\\reporteproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DBB654-C7A5-4672-8E97-99D5060FE126}|SistemaVentasMinimarket\\SistemaVentasMinimarket.csproj|F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\sistemaventasminimarket\\views\\reporte\\reporteventas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8DBB654-C7A5-4672-8E97-99D5060FE126}|SistemaVentasMinimarket\\SistemaVentasMinimarket.csproj|solutionrelative:sistemaventasminimarket\\views\\reporte\\reporteventas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DBB654-C7A5-4672-8E97-99D5060FE126}|SistemaVentasMinimarket\\SistemaVentasMinimarket.csproj|f:\\estaciondetrabajo_c#_.net\\proyecto_efst_diana\\proyectoventasminimarket1\\sistemaventasminimarket\\sistemaventasminimarket\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A8DBB654-C7A5-4672-8E97-99D5060FE126}|SistemaVentasMinimarket\\SistemaVentasMinimarket.csproj|solutionrelative:sistemaventasminimarket\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF4EEE-AF02-4EC9-BE14-DBDB1B3BAC2B}|CapaEntidad\\CapaEntidad.csproj|F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\capaentidad\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF4EEE-AF02-4EC9-BE14-DBDB1B3BAC2B}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DBB654-C7A5-4672-8E97-99D5060FE126}|SistemaVentasMinimarket\\SistemaVentasMinimarket.csproj|F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\sistemaventasminimarket\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DBB654-C7A5-4672-8E97-99D5060FE126}|SistemaVentasMinimarket\\SistemaVentasMinimarket.csproj|solutionrelative:sistemaventasminimarket\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABDC81E-832E-47BC-A5F1-775E43530F95}|CapaDatos\\CapaDatos.csproj|F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\capadatos\\cd_reporteproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABDC81E-832E-47BC-A5F1-775E43530F95}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_reporteproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DBB654-C7A5-4672-8E97-99D5060FE126}|SistemaVentasMinimarket\\SistemaVentasMinimarket.csproj|F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\sistemaventasminimarket\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DBB654-C7A5-4672-8E97-99D5060FE126}|SistemaVentasMinimarket\\SistemaVentasMinimarket.csproj|solutionrelative:sistemaventasminimarket\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABDC81E-832E-47BC-A5F1-775E43530F95}|CapaDatos\\CapaDatos.csproj|F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\capadatos\\cd_reporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABDC81E-832E-47BC-A5F1-775E43530F95}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_reporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DBB654-C7A5-4672-8E97-99D5060FE126}|SistemaVentasMinimarket\\SistemaVentasMinimarket.csproj|F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\sistemaventasminimarket\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DBB654-C7A5-4672-8E97-99D5060FE126}|SistemaVentasMinimarket\\SistemaVentasMinimarket.csproj|solutionrelative:sistemaventasminimarket\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCFEDBF-9834-4512-9BA8-AE919B447C96}|CapaNegocio\\CapaNegocio.csproj|F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\capanegocio\\cn_reporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCFEDBF-9834-4512-9BA8-AE919B447C96}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_reporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DBB654-C7A5-4672-8E97-99D5060FE126}|SistemaVentasMinimarket\\SistemaVentasMinimarket.csproj|F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\sistemaventasminimarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8DBB654-C7A5-4672-8E97-99D5060FE126}|SistemaVentasMinimarket\\SistemaVentasMinimarket.csproj|solutionrelative:sistemaventasminimarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrarProductos.cshtml",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\SistemaVentasMinimarket\\Views\\Mantenedor\\RegistrarProductos.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentasMinimarket\\Views\\Mantenedor\\RegistrarProductos.cshtml",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\SistemaVentasMinimarket\\Views\\Mantenedor\\RegistrarProductos.cshtml",
+              "RelativeToolTip": "SistemaVentasMinimarket\\Views\\Mantenedor\\RegistrarProductos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T04:17:01.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\SistemaVentasMinimarket\\Web.config",
+              "RelativeDocumentMoniker": "SistemaVentasMinimarket\\Web.config",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\SistemaVentasMinimarket\\Web.config",
+              "RelativeToolTip": "SistemaVentasMinimarket\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-24T00:34:14.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\CapaEntidad\\Venta.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Venta.cs",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\CapaEntidad\\Venta.cs",
+              "RelativeToolTip": "CapaEntidad\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T04:48:22.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CD_ReporteProductos.cs",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\CapaDatos\\CD_ReporteProductos.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_ReporteProductos.cs",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\CapaDatos\\CD_ReporteProductos.cs",
+              "RelativeToolTip": "CapaDatos\\CD_ReporteProductos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T04:13:24.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MantenedorController.cs",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\SistemaVentasMinimarket\\Controllers\\MantenedorController.cs",
+              "RelativeDocumentMoniker": "SistemaVentasMinimarket\\Controllers\\MantenedorController.cs",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\SistemaVentasMinimarket\\Controllers\\MantenedorController.cs",
+              "RelativeToolTip": "SistemaVentasMinimarket\\Controllers\\MantenedorController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAIEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T04:01:43.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReporteVentas.cshtml",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\SistemaVentasMinimarket\\Views\\Reporte\\ReporteVentas.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentasMinimarket\\Views\\Reporte\\ReporteVentas.cshtml",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\SistemaVentasMinimarket\\Views\\Reporte\\ReporteVentas.cshtml",
+              "RelativeToolTip": "SistemaVentasMinimarket\\Views\\Reporte\\ReporteVentas.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T04:00:49.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReporteProductos.cshtml",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\SistemaVentasMinimarket\\Views\\Reporte\\ReporteProductos.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentasMinimarket\\Views\\Reporte\\ReporteProductos.cshtml",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\SistemaVentasMinimarket\\Views\\Reporte\\ReporteProductos.cshtml",
+              "RelativeToolTip": "SistemaVentasMinimarket\\Views\\Reporte\\ReporteProductos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T03:58:54.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\SistemaVentasMinimarket\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "SistemaVentasMinimarket\\Controllers\\ReporteController.cs",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\SistemaVentasMinimarket\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "SistemaVentasMinimarket\\Controllers\\ReporteController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:58:30.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CN_ReporteVentas.cs",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\CapaNegocio\\CN_ReporteVentas.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_ReporteVentas.cs",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\CapaNegocio\\CN_ReporteVentas.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_ReporteVentas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:26:32.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\SistemaVentasMinimarket\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentasMinimarket\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\SistemaVentasMinimarket\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaVentasMinimarket\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAD0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T03:51:23.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CD_ReporteVentas.cs",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\CapaDatos\\CD_ReporteVentas.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_ReporteVentas.cs",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\CapaDatos\\CD_ReporteVentas.cs",
+              "RelativeToolTip": "CapaDatos\\CD_ReporteVentas.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:18:29.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\SistemaVentasMinimarket\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "SistemaVentasMinimarket\\Controllers\\VentaController.cs",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\Proyecto_EFST_DIANA\\ProyectoVentasMinimarket1\\SistemaVentasMinimarket\\SistemaVentasMinimarket\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "SistemaVentasMinimarket\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAADwv1EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:06:53.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

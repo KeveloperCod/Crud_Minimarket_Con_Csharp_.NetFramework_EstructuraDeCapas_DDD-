@@ -1,0 +1,46 @@
+﻿@model List<CapaEntidad.Producto>
+
+@{
+    ViewBag.Title = "ReporteProductos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Reporte de Productos</title>
+</head>
+<body>
+    <h2>Reporte de Productos</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>ID Producto</th>
+                <th>Nombre</th>
+                <th>Descripción</th>
+                <th>Precio</th>
+                <th>Stock</th>
+                <th>Categoria ID</th>
+                <th>Fecha Agregado</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ProductoID</td>
+                    <td>@item.Nombre</td>
+                    <td>@item.Descripcion</td>
+                    <td>@item.Precio</td>
+                    <td>@item.Stock</td>
+                    <td>@item.CategoriaID</td>
+                    <td>@item.FechaAgregado</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>
+
+

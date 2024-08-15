@@ -1,0 +1,678 @@
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\SistemaVentasMinimarket.dll.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\SistemaVentasMinimarket.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\SistemaVentasMinimarket.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csc.exe
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csc.exe.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csc.rsp
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csi.exe
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csi.exe.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csi.rsp
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.AppContext.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Collections.Immutable.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Console.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Globalization.Calendars.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.IO.Compression.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.IO.FileSystem.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Net.Http.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Net.Sockets.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.ValueTuple.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Xml.XPath.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\vbc.exe
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\vbc.exe.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\vbc.rsp
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\VBCSCompiler.exe
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\VBCSCompiler.exe.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Antlr3.Runtime.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Web.Infrastructure.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Newtonsoft.Json.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Helpers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Mvc.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Optimization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.Deployment.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\WebGrease.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Helpers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Mvc.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Optimization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.Deployment.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Newtonsoft.Json.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Antlr3.Runtime.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.Helpers.resources.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.Mvc.resources.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.Optimization.resources.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.Razor.resources.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.WebPages.resources.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaVentasMinimarket.csproj.AssemblyReference.cache
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaVentasMinimarket.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaV.FAE9A42A.Up2Date
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaVentasMinimarket.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaVentasMinimarket.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaEntidad.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaNegocio.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaDatos.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaEntidad.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaNegocio.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaDatos.pdb
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\SistemaVentasMinimarket.dll.config
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\SistemaVentasMinimarket.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\SistemaVentasMinimarket.pdb
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csc.exe
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csc.exe.config
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csc.rsp
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csi.exe
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csi.exe.config
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csi.rsp
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.AppContext.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Collections.Immutable.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Console.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Globalization.Calendars.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.IO.Compression.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.IO.FileSystem.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Net.Http.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Net.Sockets.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.ValueTuple.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Xml.XPath.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\vbc.exe
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\vbc.exe.config
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\vbc.rsp
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\VBCSCompiler.exe
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\VBCSCompiler.exe.config
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Antlr3.Runtime.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaEntidad.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaNegocio.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Web.Infrastructure.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Newtonsoft.Json.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Helpers.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Mvc.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Optimization.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Razor.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.Deployment.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.Razor.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\WebGrease.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaDatos.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaEntidad.pdb
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaNegocio.pdb
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Helpers.xml
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Mvc.xml
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Optimization.xml
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Razor.xml
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.xml
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.Deployment.xml
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.Razor.xml
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Newtonsoft.Json.xml
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Antlr3.Runtime.pdb
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaDatos.pdb
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.Helpers.resources.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.Mvc.resources.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.Optimization.resources.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.Razor.resources.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.WebPages.resources.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaVentasMinimarket.csproj.AssemblyReference.cache
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaVentasMinimarket.csproj.CoreCompileInputs.cache
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaV.FAE9A42A.Up2Date
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaVentasMinimarket.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaVentasMinimarket.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaVentasMinimarket.csproj.AssemblyReference.cache
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaVentasMinimarket.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaVentasMinimarket.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaVentasMinimarket.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.DiaSymReader.Native.x86.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\SistemaVentasMinimarket.dll.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\SistemaVentasMinimarket.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\SistemaVentasMinimarket.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csc.exe
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csc.exe.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csc.rsp
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csi.exe
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csi.exe.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csi.rsp
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.AppContext.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Collections.Immutable.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Console.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Globalization.Calendars.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.IO.Compression.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.IO.FileSystem.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Net.Http.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Net.Sockets.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Reflection.Metadata.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.ValueTuple.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Xml.XPath.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\vbc.exe
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\vbc.exe.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\vbc.rsp
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\VBCSCompiler.exe
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\VBCSCompiler.exe.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Antlr3.Runtime.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaEntidad.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaNegocio.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Authorization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Cors.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Http.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Localization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Razor.Language.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Routing.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeAnalysis.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeAnalysis.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.DependencyModel.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Localization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.ObjectPool.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Options.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Primitives.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.WebEncoders.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Net.Http.Headers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Web.Infrastructure.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Win32.Registry.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Newtonsoft.Json.Bson.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Newtonsoft.Json.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Buffers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Collections.Immutable.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.ComponentModel.Annotations.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Memory.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Numerics.Vectors.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Reflection.Metadata.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Security.AccessControl.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Security.Cryptography.Xml.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Security.Permissions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Security.Principal.Windows.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Text.Encoding.CodePages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Text.Encodings.Web.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Threading.Tasks.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Helpers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Mvc.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Optimization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.Deployment.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\WebGrease.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaDatos.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaEntidad.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaEntidad.dll.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaNegocio.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaNegocio.dll.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Authorization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Cors.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Http.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Localization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Razor.Language.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Routing.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeAnalysis.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeAnalysis.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeAnalysis.CSharp.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeAnalysis.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Localization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.ObjectPool.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Options.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Primitives.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.WebEncoders.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Net.Http.Headers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Newtonsoft.Json.Bson.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Buffers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Collections.Immutable.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Memory.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Numerics.Vectors.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Reflection.Metadata.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Text.Encodings.Web.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Threading.Tasks.Extensions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Helpers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Mvc.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Optimization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.Deployment.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Newtonsoft.Json.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Antlr3.Runtime.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaDatos.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaDatos.dll.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.Helpers.resources.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.Mvc.resources.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.Optimization.resources.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.Razor.resources.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.WebPages.resources.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaV.FAE9A42A.Up2Date
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Rotativa.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.DiaSymReader.Native.x86.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.DiaSymReader.Native.amd64.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\SistemaVentasMinimarket.dll.config
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\SistemaVentasMinimarket.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\SistemaVentasMinimarket.pdb
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csc.exe
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csc.exe.config
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csc.rsp
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csi.exe
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csi.exe.config
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\csi.rsp
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.Managed.Core.targets
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.AppContext.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Collections.Immutable.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Console.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Globalization.Calendars.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.IO.Compression.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.IO.FileSystem.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Net.Http.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Net.Sockets.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Reflection.Metadata.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.ValueTuple.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Xml.XmlDocument.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Xml.XPath.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\vbc.exe
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\vbc.exe.config
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\vbc.rsp
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\VBCSCompiler.exe
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\roslyn\VBCSCompiler.exe.config
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Antlr3.Runtime.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaEntidad.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaNegocio.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Antiforgery.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Authentication.Core.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Authorization.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Cors.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.DataProtection.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Http.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Http.Extensions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Http.Features.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.JsonPatch.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Localization.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Core.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Razor.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Razor.Language.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Routing.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.WebUtilities.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeAnalysis.CSharp.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeAnalysis.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeAnalysis.Razor.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.DotNet.PlatformAbstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Caching.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Caching.Memory.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.DependencyInjection.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.DependencyModel.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.FileProviders.Composite.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Localization.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Localization.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.ObjectPool.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Options.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Primitives.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.WebEncoders.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Net.Http.Headers.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Web.Infrastructure.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Win32.Registry.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Newtonsoft.Json.Bson.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Newtonsoft.Json.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Rotativa.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Buffers.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Collections.Immutable.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.ComponentModel.Annotations.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Diagnostics.DiagnosticSource.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Memory.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Numerics.Vectors.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Reflection.Metadata.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Security.AccessControl.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Security.Cryptography.Xml.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Security.Permissions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Security.Principal.Windows.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Text.Encoding.CodePages.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Text.Encodings.Web.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Threading.Tasks.Extensions.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Helpers.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Mvc.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Optimization.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Razor.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.Deployment.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.Razor.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\WebGrease.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaDatos.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaEntidad.pdb
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaEntidad.dll.config
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaNegocio.pdb
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaNegocio.dll.config
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Antiforgery.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Authentication.Core.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Authorization.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Cors.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.DataProtection.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Http.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Http.Extensions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Http.Features.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.JsonPatch.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Localization.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Core.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Razor.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Razor.Language.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Routing.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.AspNetCore.WebUtilities.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeAnalysis.pdb
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeAnalysis.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeAnalysis.CSharp.pdb
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeAnalysis.CSharp.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeAnalysis.Razor.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Caching.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Caching.Memory.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.DependencyInjection.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.FileProviders.Composite.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Localization.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Localization.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Logging.Abstractions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.ObjectPool.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Options.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.Primitives.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Extensions.WebEncoders.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.Net.Http.Headers.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Newtonsoft.Json.Bson.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Buffers.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Collections.Immutable.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Diagnostics.DiagnosticSource.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Memory.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Numerics.Vectors.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Reflection.Metadata.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Text.Encodings.Web.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Threading.Tasks.Extensions.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Helpers.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Mvc.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Optimization.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.Razor.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.Deployment.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\System.Web.WebPages.Razor.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Newtonsoft.Json.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Antlr3.Runtime.pdb
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaDatos.pdb
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\CapaDatos.dll.config
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.Helpers.resources.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.Mvc.resources.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.Optimization.resources.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.Razor.resources.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.WebPages.resources.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaVentasMinimarket.csproj.AssemblyReference.cache
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaVentasMinimarket.csproj.CoreCompileInputs.cache
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaV.FAE9A42A.Up2Date
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaVentasMinimarket.dll
+F:\EstacionDeTrabajo_C#_.NET\Proyecto_EFST_DIANA\ProyectoVentasMinimarket1\SistemaVentasMinimarket\SistemaVentasMinimarket\obj\Debug\SistemaVentasMinimarket.pdb

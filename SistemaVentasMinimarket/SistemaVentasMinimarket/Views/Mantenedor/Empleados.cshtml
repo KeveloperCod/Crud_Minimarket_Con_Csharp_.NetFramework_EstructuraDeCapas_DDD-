@@ -1,0 +1,99 @@
+﻿
+@{
+    ViewBag.Title = "Empleados";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<ol class="breadcrumb mb-4 mt-4">
+    <li class="breadcrumb-item"><a href="index.html">Mantenimiento</a></li>
+    <li class="breadcrumb-item active">Empleados</li>
+</ol>
+
+<div class="card">
+    <div class="card-header">
+        <i class="fas fa-users me-1"></i> Lista de Empleados
+    </div>
+
+    <div class="card-body">
+        <div class="row">
+            <div class="col-12">
+                <p>
+                    @Html.ActionLink("Nuevo Empleado", "RegistrarEmpleado", null, new { @class = "btn btn-primary" })
+                </p>
+            </div>
+        </div>
+
+        <hr />
+
+        <table id="tabla" class="display cell-border" style="width: 100%">
+            <thead>
+                <tr>
+                    <th>EmpleadoID</th>
+                    <th>Nombre</th>
+                    <th>Apellido</th>
+                    <th>Email</th>
+                    <th>Telefono</th>
+                    <th>Direccion</th>
+                    <th>FechaContratacion</th>
+                    <th>NomCargo</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+
+        </table>
+
+
+    </div>
+</div>
+
+
+
+@section scripts{
+    <script>
+        var tabladata;
+
+        tabladata = $("#tabla").DataTable({
+            responsive: true,
+            ordering: false,
+            ajax: {
+                url: '@Url.Action("ListarEmpleados", "Mantenedor")',
+                type: "GET",
+                dataType: "json",
+                dataSrc: "data"
+            },
+            columns: [
+                { data: "EmpleadoID" },
+                { data: "Nombre" },
+                { data: "Apellido" },
+                { data: "Email" },
+                { data: "Telefono" },
+                { data: "Direccion" },
+                { data: "FechaContratacion" },
+                { data: "NomCargo" },
+                {
+                    data: "EmpleadoID",
+                    render: function (data, type, row, meta) {
+                        var urlActualizar = '@Url.Action("ActualizarEmpleado", "Mantenedor", new { id = "__id__" })';
+                        urlActualizar = urlActualizar.replace("__id__", data);
+                        return '<a href="' + urlActualizar + '" class="btn btn-primary btn-sm"><i class="fas fa-pen"></i></a>' +
+                               '<button type="button" class="btn btn-danger btn-sm ms-2"><i class="fas fa-trash"></i></button>';
+                    },
+                    orderable: false,
+                    searchable: false,
+                    width: '100%'
+                }
+            ],
+            language: {
+                url: 'https://cdn.datatables.net/plug-ins/2.0.8/i18n/es-MX.json'
+            }
+        });
+    </script>
+}
+
+
+
+
+

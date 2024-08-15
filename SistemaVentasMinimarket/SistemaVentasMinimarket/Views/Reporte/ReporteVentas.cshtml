@@ -1,0 +1,39 @@
+﻿@model List<CapaEntidad.Venta>
+
+@{
+    ViewBag.Title = "ReporteVentas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Reporte de Ventas</title>
+</head>
+
+<body>
+    <h2>Reporte de Ventas</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>ID Venta</th>
+                <th>Fecha</th>
+                <th>Monto Total</th>
+                <!-- Agregar-->
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.VentaID</td>
+                    <td>@item.FechaVenta</td>
+                    <td>@item.MontoTotal</td>
+                    <!-- Agregar -->
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

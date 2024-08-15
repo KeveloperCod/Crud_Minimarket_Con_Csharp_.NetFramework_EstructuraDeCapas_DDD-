@@ -1,0 +1,97 @@
+﻿
+@{
+    ViewBag.Title = "Empleados";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<ol class="breadcrumb mb-4 mt-4">
+    <li class="breadcrumb-item"><a href="index.html">Mantenimiento</a></li>
+    <li class="breadcrumb-item active">Producto</li>
+</ol>
+
+<div class="card">
+    <div class="card-header">
+        <i class="fas fa-users me-1"></i> Lista de Productos
+    </div>
+
+    <div class="card-body">
+        <div class="row">
+            <div class="col-12">
+                <button type="button" class="btn btn-outline-dark">Crear</button>
+            </div>
+        </div>
+
+        <hr />
+
+        <table id="tabla" class="display cell-border" style="width: 100%">
+            <thead>
+                <tr>
+                    <th>ProductoID</th>
+                    <th>Nombre</th>
+                    <th>Descripcion</th>
+                    <th>Precio</th>
+                    <th>Stock</th>
+                    <th>CategoriaID</th>
+                    <th>FechaAgregado</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+
+        </table>
+
+
+    </div>
+</div>
+
+@section scripts{
+    <script>
+        var tabladata;
+
+        $.ajax({
+            url: '@Url.Action("ListarProducto", "Mantenedor")',
+            type: "GET",
+            dataType: "json",
+            contentType: "application/json; charset=utf-8",
+            success: function (data) {
+               console.log(data);
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                console.error("Ajax error:", textStatus, errorThrown);
+            }
+        });
+
+        tabladata = $("#tabla").DataTable({
+            responsive: true,
+            ordering: false,
+            ajax: {
+                url: '@Url.Action("ListarProducto", "Mantenedor")',
+                type: "GET",
+                dataType: "json",
+                dataSrc: "data"
+            },
+            columns: [
+                { data: "ProductoID" },
+                { data: "Nombre" },
+                { data: "Descripcion" },
+                { data: "Precio" },
+                { data: "Stock" },
+                { data: "CategoriaID" },
+                { data: "FechaAgregado" },
+                {
+                    "defaultContent": '<button type = "button" class= "btn btn-primary btn-sm"> <i class="fas fa-pen"></i></button >' +
+                        '<button type="button" class="btn btn-danger btn-sm ms-2"><i class="fas fa-trash"></i></button>',
+                    "orderable": false,
+                    "searchable": false,
+                    "width": '100%'
+
+                }
+            ]
+        });
+    </script>
+}
+
+
+
